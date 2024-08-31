@@ -1,6 +1,4 @@
-
-<h1 align="center">👨‍💻BINIYAM"💻</h1
-<h1 align="center">👨‍💻gonna steal sm, thx !👨‍💻</h1
+<h1 align="center">👨‍💻BINIYAM:-👨‍💻gonna steal sm, thx !👨‍💻</h1
 <h3 align="center">A passionate frontend developer and competitive programmer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
